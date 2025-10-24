@@ -24,7 +24,8 @@ for abobkas in kruzhochki chat
 
 В личном кабинете будет вкладка 
 <ins>Виртуальный Сервер</ins>
-![1000105804](https://github.com/user-attachments/assets/64403d05-2e4f-43e4-a636-19b2bdee80d7)
+![1000105804](https://github.com/user-attachments/assets/63d0c4f5-5622-4394-9654-a9df73e17033)
+
 
 
 выбираем любой понравившийся (у меня это Хельсинки самый дешёвый)
@@ -45,13 +46,16 @@ for abobkas in kruzhochki chat
 <summary><b><code>Настройка termius для телефона</code></b></summary>
   Заходим в приложение, нажимаем на кнопку vaults 
   
-  ![1000105808](https://github.com/user-attachments/assets/f9a9b37e-1c27-4a17-a19b-e208ef6fce2f)
+  ![1000105808](https://github.com/user-attachments/assets/3da35e0e-0472-4b78-8a9b-7d66a1581043)
+
 выбираем Hosts и снизу нажимаем на плюсик
 
-  ![1000105810](https://github.com/user-attachments/assets/cb858398-9a9e-442d-ae84-a4c0bc0416eb)
+  ![1000105810](https://github.com/user-attachments/assets/5b964483-f315-4b7f-ba52-0af3047194ea)
+
 Выбираем New Host
 
-  ![1000105812](https://github.com/user-attachments/assets/02a48186-65a7-4692-a435-082fa04aa5f2)
+  ![1000105812](https://github.com/user-attachments/assets/23ccf9d7-d8b4-4ce5-9db7-5409647b8e35)
+
 
   Здесь вводим данные
   `Alias` - имя сервера, пишите любое которое нравится
@@ -69,7 +73,8 @@ for abobkas in kruzhochki chat
 </details>
 
 Либо если впдалу, то на странице <ins>«Мои услуги</ins>, нажимаем на сервер, переходим в самую последнюю вкладку `VNC` и там входим в систему
-![1000105846](https://github.com/user-attachments/assets/1c2f620d-313f-484a-9eb5-1debdd75c030)
+![1000105846](https://github.com/user-attachments/assets/fca9ec2b-0119-42c2-a580-b2f1f7a959d4)
+
 
 
 >нажимаем на кнопки вставить логин и пароль
@@ -90,11 +95,13 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 На этом сообщении просто нажимаем enter
 
-![1000105815](https://github.com/user-attachments/assets/30d5c501-5721-4cbd-a038-9656ab0a0412)
+![1000105815](https://github.com/user-attachments/assets/e66c2bad-f22d-4d15-b04a-afa43cdcd74a)
+
 
 После этого вы увидите следующее:
 
-![1000105817](https://github.com/user-attachments/assets/fa4823dd-cb5f-45f1-ae2a-3a2167e29725)
+![1000105817](https://github.com/user-attachments/assets/38e22a58-aedc-42bc-b169-1b509b1d07b8)
+
 
 Здесь список основных команд и данные от панели.
 
@@ -118,15 +125,18 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 Заходим во вкладку Инбаунды
 
-![1000105819](https://github.com/user-attachments/assets/bc7560a2-ee8f-4ab5-a87f-545ac3a0c512)
+![1000105819](https://github.com/user-attachments/assets/5be05bd2-d510-476b-98a9-c6ebaa47684f)
+
 
 И нажимаем на зелёный плюсик
 
-![1000105821](https://github.com/user-attachments/assets/8f1c0d6b-e74b-46b6-a9ba-05cc6fe09d4d)
+![1000105821](https://github.com/user-attachments/assets/7d9a1d4d-e9e8-4e19-812d-82b600cb60fa)
+
 
 Вы видите вот такой большой список настроек:
 
-![1000105823](https://github.com/user-attachments/assets/6696501f-7183-43ce-a01a-4627bdb65efe)
+![1000105823](https://github.com/user-attachments/assets/e3e53c33-f081-48a1-8cf5-a07ef38dec0c)
+
 
 Нам же здесь нужны следующие:
 
@@ -152,18 +162,21 @@ SNI:
 
 Поздравляю! У вас теперь есть инбаунд
 
-![1000105827](https://github.com/user-attachments/assets/fe125307-61c2-4897-8233-5769a93c0bb1)
+![1000105827](https://github.com/user-attachments/assets/2248b1c1-c3da-4184-b09e-afdcf74b2d64)
+
 
 
 Нажимаем на плюсик рядом с ID
 
 В выпавшем меню под "Меню" три точки, на них нажимаем, вылезет еще одно меню:
 
-![1000105830](https://github.com/user-attachments/assets/6b57dbed-c8e3-4e2e-974a-1d816ecd4377)
+![1000105830](https://github.com/user-attachments/assets/d56399c9-1778-4c37-954b-aaff33271e0b)
+
 
 Выбираем `QR-код`:
 
-![1000105831](https://github.com/user-attachments/assets/ed19c284-0d60-441b-a510-e5bca32a7c47)
+![1000105831](https://github.com/user-attachments/assets/ca84ee47-a851-406b-b0e3-4c27a5c9c434)
+
 
 И нажимаем на нижний (честно, когда я настроивал свою панель у меня такого не было, но не суть важно) и у вас скопируется информация о ключе, который мы будем вставлять в v2ray или nekobox
 
@@ -171,15 +184,18 @@ SNI:
 
 Зайдя в приложение, нажимайте на синий плюсик вверху
 
-![1000105833](https://github.com/user-attachments/assets/92663caf-4b81-443d-8553-c39bb79fa07d)
+![1000105833](https://github.com/user-attachments/assets/63aa6d2f-4677-4eef-a2ef-a5ae55bcdb83)
+
 
 Импорт из буфера обмена
 
-![1000105835](https://github.com/user-attachments/assets/23161fb6-cc4a-45f0-869a-93f00ce20cb4)
+![1000105835](https://github.com/user-attachments/assets/ec6d9fff-5421-4a96-bf9f-f6acc970562e)
+
 
 Все! успех ураааа уряяяяя ваууу мы такие молодцы да ребята? у нас теперь есть свой впн
 
-![1000105842](https://github.com/user-attachments/assets/799d3dd5-d972-4ed1-96af-1a4872313efa)
+![1000105842](https://github.com/user-attachments/assets/268a4533-1572-49cf-aba1-fb16922c4115)
+
 
 По Вопросам в [лс](https://t.me/YomiYoriKikoyoKoukokuNoHito)
 Возможно допишу еще часть про ssl сертификаты, что бы плашка о незащищённом соединении не мешала + можно поставить адблок на сервер и у вас не будет рекламы
