@@ -162,23 +162,19 @@ SNI:
 
 Поздравляю! У вас теперь есть инбаунд
 
-![1000105827](https://github.com/user-attachments/assets/2248b1c1-c3da-4184-b09e-afdcf74b2d64)
-
-
-
 Нажимаем на плюсик рядом с ID
 
 В выпавшем меню под "Меню" три точки, на них нажимаем, вылезет еще одно меню:
 
-![1000105830](https://github.com/user-attachments/assets/d56399c9-1778-4c37-954b-aaff33271e0b)
+![1000105827](https://github.com/user-attachments/assets/ca6087f6-fa60-4a3d-b3bc-1c10a9d0dce2)
 
-
-Выбираем `QR-код`:
-
-![1000105831](https://github.com/user-attachments/assets/ca84ee47-a851-406b-b0e3-4c27a5c9c434)
-
+Выбираем `QR-код`
+![1000105830](https://github.com/user-attachments/assets/4f04af26-d56a-48dc-beec-416b177819ab)
 
 И нажимаем на нижний (честно, когда я настроивал свою панель у меня такого не было, но не суть важно) и у вас скопируется информация о ключе, который мы будем вставлять в v2ray или nekobox
+
+![1000105831](https://github.com/user-attachments/assets/f95ff972-fb9c-4cce-9940-d7ea3797aa93)
+
 
 # Настройка v2ray
 
