@@ -26,8 +26,6 @@ for abobkas in kruzhochki chat
 <ins>Виртуальный Сервер</ins>
 ![1000105804](https://github.com/user-attachments/assets/63d0c4f5-5622-4394-9654-a9df73e17033)
 
-
-
 выбираем любой понравившийся (у меня это Хельсинки самый дешёвый)
 Тариф Shared
 
@@ -56,7 +54,6 @@ for abobkas in kruzhochki chat
 
   ![1000105812](https://github.com/user-attachments/assets/23ccf9d7-d8b4-4ce5-9db7-5409647b8e35)
 
-
   Здесь вводим данные
   `Alias` - имя сервера, пишите любое которое нравится
 
@@ -69,13 +66,10 @@ for abobkas in kruzhochki chat
 
  Все, нажимаем сверху на галочку и мы добавили сервер
  
-
 </details>
 
 Либо если впдалу, то на странице <ins>«Мои услуги</ins>, нажимаем на сервер, переходим в самую последнюю вкладку `VNC` и там входим в систему
 ![1000105846](https://github.com/user-attachments/assets/fca9ec2b-0119-42c2-a580-b2f1f7a959d4)
-
-
 
 >нажимаем на кнопки вставить логин и пароль
 
@@ -97,11 +91,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 ![1000105815](https://github.com/user-attachments/assets/e66c2bad-f22d-4d15-b04a-afa43cdcd74a)
 
-
 После этого вы увидите следующее:
 
 ![1000105817](https://github.com/user-attachments/assets/38e22a58-aedc-42bc-b169-1b509b1d07b8)
-
 
 Здесь список основных команд и данные от панели.
 
@@ -116,7 +108,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 После этого пишите 6 (6 пункт), на сообщение отвечаете `Y`, задаете имя и пароль пользователя, после этого два раза enter
 
-
 Все! Панель установлена, идем по ее адресу и настраиваем.
 
 ### Настройка панели
@@ -127,16 +118,13 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 ![1000105819](https://github.com/user-attachments/assets/5be05bd2-d510-476b-98a9-c6ebaa47684f)
 
-
 И нажимаем на зелёный плюсик
 
 ![1000105821](https://github.com/user-attachments/assets/7d9a1d4d-e9e8-4e19-812d-82b600cb60fa)
 
-
 Вы видите вот такой большой список настроек:
 
 ![1000105823](https://github.com/user-attachments/assets/e3e53c33-f081-48a1-8cf5-a07ef38dec0c)
-
 
 Нам же здесь нужны следующие:
 
@@ -164,9 +152,11 @@ SNI:
 
 Нажимаем на плюсик рядом с ID
 
+![1000105827](https://github.com/user-attachments/assets/ca6087f6-fa60-4a3d-b3bc-1c10a9d0dce2)
+
 В выпавшем меню под "Меню" три точки, на них нажимаем, вылезет еще одно меню:
 
-![1000105827](https://github.com/user-attachments/assets/ca6087f6-fa60-4a3d-b3bc-1c10a9d0dce2)
+![1000105852](https://github.com/user-attachments/assets/3367f0c2-d71f-4e46-91cf-e638e2e6b61c)
 
 Выбираем `QR-код`
 ![1000105830](https://github.com/user-attachments/assets/4f04af26-d56a-48dc-beec-416b177819ab)
@@ -175,23 +165,19 @@ SNI:
 
 ![1000105831](https://github.com/user-attachments/assets/f95ff972-fb9c-4cce-9940-d7ea3797aa93)
 
-
 # Настройка v2ray
 
 Зайдя в приложение, нажимайте на синий плюсик вверху
 
 ![1000105833](https://github.com/user-attachments/assets/63aa6d2f-4677-4eef-a2ef-a5ae55bcdb83)
 
-
 Импорт из буфера обмена
 
 ![1000105835](https://github.com/user-attachments/assets/ec6d9fff-5421-4a96-bf9f-f6acc970562e)
 
-
 Все! успех ураааа уряяяяя ваууу мы такие молодцы да ребята? у нас теперь есть свой впн
 
 ![1000105842](https://github.com/user-attachments/assets/268a4533-1572-49cf-aba1-fb16922c4115)
-
 
 По Вопросам в [лс](https://t.me/YomiYoriKikoyoKoukokuNoHito)
 Возможно допишу еще часть про ssl сертификаты, что бы плашка о незащищённом соединении не мешала + можно поставить адблок на сервер и у вас не будет рекламы
